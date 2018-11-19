@@ -6,7 +6,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Operating since**  | 1972  | 1994 | 2014 | 2017 | 2018 | 2022|
 | **Users / yr** |   | 6000 | | | | |
-| **Data Policy** | 2015 | 2016 | ? | 2017 | ? | ? |
+| **Data Policy** | 2011 | 2016 | ? | 2017 | ? | ? |
 | **Metadata catalogue** | Local | Icat | [Icat] | Local | ? | SciCat |
 | **Metadata definitions** | Nexus | Nexus | ? | ? | ? | Nexus |
 | **Data production / yr** |  ? | 8 PB | ? | ? | ? | 0 |
